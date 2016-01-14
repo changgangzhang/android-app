@@ -1,5 +1,5 @@
 package net.oschina.app.common;
-
+   
 import java.io.File;
 import java.io.IOException;
 import java.lang.ref.SoftReference;
